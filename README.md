@@ -21,4 +21,3 @@ I have also written two technical blog posts as part of this assignment. You can
 
 ## 🚀 Technologies Used
 - TypeScript
-- Node.js
