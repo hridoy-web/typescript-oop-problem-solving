@@ -22,3 +22,11 @@ yarn-debug.log*
 # Environment Variables
 .env
 .env.*
+
+# Environment variables & secrets (added by GitHub Guardian)
+*.env
+!.env.example
+!.env.sample
+.envrc
+.venv/
+venv/
